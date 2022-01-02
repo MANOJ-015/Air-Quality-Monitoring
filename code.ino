@@ -34,7 +34,7 @@ void loop() {
   lcd.print("Air Quality: ");      // print message on lcd
   lcd.print(ppm);                 // print value of MQ135
 
-  if (ppm >= threshold && ppm<=1000)            // check is ppm is greater than threshold or not
+  if (ppm >= threshold && ppm<=600)            // check is ppm is greater than threshold or not
     {
       lcd.setCursor(1,1);         //jump here if ppm is greater than threshold
       lcd.print("Max Acceptable Co2");
