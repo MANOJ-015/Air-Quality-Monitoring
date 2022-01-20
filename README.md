@@ -3,7 +3,6 @@
 <h2 align="center"><a href="http://detect-air-quality.herokuapp.com/" target="_blank">Website</a></h2>
 
 An air quality monitor is a device that measures the level of common air pollutants.
-
 IOT Based Air Pollution Monitoring System monitors the Air Quality over a webserver using internet and will trigger a buzzeer when the air quality goes down beyond a certain level, means when there are amount of harmful gases present in the air like CO2. The system will show the air quality in PPM on the LCD and as well as on webpage so that it can be monitored very easily. Temperature and Humidity is detected and monitored in the system.
 
 ## 🎯 Purpose of the Project
@@ -20,10 +19,10 @@ If it exceeds 2000PPM then it will cause increased heart rate and many different
 
 The LCD and webpage will display **“Danger! Move to Fresh Air”.** LCD and Buzzer are the output devices. LCD shows the data of the gases in ppm (parts per million) and Buzzer is used when ppm crosses above a threshold limit.
 
-As of now our project will show only the level of **carbon dioxide(co2)**
+As of now our project will show only the level of **carbon dioxide(CO2)**
 
 
-### Software Required:
+### 👨🏻‍💻Software Required:
 
  This project is built and developed using [Ardunio](https://www.arduino.cc/en/software) and [Python Flask](https://www.python.org/). 
 
