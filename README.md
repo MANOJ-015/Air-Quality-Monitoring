@@ -8,7 +8,7 @@ IOT Based Air Pollution Monitoring System monitors the Air Quality over a webser
 ## 🎯 Purpose of the Project
 Average person spends an estimated 90% of their time indoors so that poor indoor air quality poses a substantial risk to public health. Poor air quality may cause increased short-term health problems such as fatigue and nausea as well as chronic respiratory diseases, heart disease, and lung cancer.
 
-In this project, we are going to present an indoor air quality monitoring system. Our system is connected to the Internet, and as a result, anyone can remotely visualize the air quality index fromm anywhere.
+In this project, we are going to present an indoor air quality monitoring system. Our system is connected to the Internet, and as a result, anyone can remotely visualize the air quality index from anywhere.
 
 ## - 🏃‍Working-principle and Implementaion:
 The proposed Air Pollution Monitoring System is based on the block diagram as shown in Fig.1. The data of air is recognized by the MQ135 gas sensor. The MQ135 sensor can sense CO2. So it is dynamic gas sensored for our Air pollution Monitoring system. When it will be connected to Arduino then it will sense gases, and it will give the Pollution level in PPM (parts per million).
@@ -30,7 +30,7 @@ As of now our project will show only the level of **carbon dioxide(CO2)**
 ### 🥁 Implementaion Pic:
 
 <p align="center">
-<img height="400" width ="600" src = "https://raw.githubusercontent.com/MANOJ-015/Air-Quality-Monitoring/main/images/implemenation.jpeg"></img>
+<img height="400" width ="auto" src = "https://raw.githubusercontent.com/MANOJ-015/Air-Quality-Monitoring/main/images/implemenation.jpeg"></img>
 </p>
  
 
